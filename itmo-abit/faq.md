@@ -415,15 +415,14 @@ Igor Jirkov
 > Какие онлайн курсы на ВТ?
 
 В ИТМО много общеуниверситетских онлайн-курсов. Вот примеры изучаемых на ВТ:
-- [введение в цифровую культуру](https://openedu.ru/course/ITMOUniversity/DIGCUL/?session=fall_2021_ITMO),
-- [хранение и обработка данных](https://openedu.ru/course/ITMOUniversity/DATST/?session=spring_2022_ITMO_bac),
-- [прикладная статистика](https://openedu.ru/course/ITMOUniversity/APPSTAT/?session=fall_2022_ITMO),
-- [машинное обучение](https://openedu.ru/course/ITMOUniversity/MLDATAN/?session=spring_2023_ITMO_bac),
+- [Введение в цифровую культуру](https://openedu.ru/course/ITMOUniversity/DIGCUL/?session=fall_2021_ITMO),
+- [Хранение и обработка данных](https://openedu.ru/course/ITMOUniversity/DATST/?session=spring_2022_ITMO_bac),
+- [Мрикладная статистика](https://openedu.ru/course/ITMOUniversity/APPSTAT/?session=fall_2022_ITMO) (неактуально, заменено на плохой офлайн курс),
+- [Машинное обучение](https://openedu.ru/course/ITMOUniversity/MLDATAN/?session=spring_2023_ITMO_bac),
 - [Безопасность жизнедеятельности](https://openedu.ru/course/ITMOUniversity/LSBASIC/?session=spring_2023_ITMO)
   (БЖД),
 - [Встроенные системы](https://openedu.ru/course/ITMOUniversity/EMBSYS/?session=spring_2023_ITMO),
 - ....
-- Вычислительная математика (?).
 
 Качество курсов есть разное, т.к. их составляют разные люди. Например, 
 - БЖД выглядит как бесполезная трата времени, 
@@ -434,8 +433,8 @@ Igor Jirkov
 Отдельное внимание хочется уделить курсам, в которых участие принимает Антон
 Бойцев. Не знаю, его это заслуга или нет, но у них высокое качество:
 - курс прикладной статистики на 2 курсе 3 семестр обучения покрывает курс
-  теории вероятностей и статистики на 2 курсе 4 семестр,
-- в каждом курсе есть проработанные текстовые материалы, которые можно
+  теории вероятностей и статистики на 2 курсе 4 семестр (больше не существует)
+- в почти каждом курсе есть проработанные текстовые материалы, которые можно
   использовать как самостоятельный учебник.
 
 Онлайн курсы, как правило, не вызывают трудностей при прохождении, если не
